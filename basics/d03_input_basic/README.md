@@ -25,6 +25,7 @@ These programs demonstrate:
 • how to ask the user to type text  
 • how to store user input in variables  
 • how to print the information back to the screen  
+• how to convert input into different data types  
 
 The examples gradually become slightly more complex.
 
@@ -76,6 +77,32 @@ print("Hello", name, "you are", age, "years old.")
 
 ---
 
+# 💻 Program 4 — Input Data Types
+
+This program demonstrates how user input can be converted into different data types.
+
+```python
+# Ask the user to enter a number
+number = int(input("Enter a whole number: "))
+
+# Ask the user to enter a decimal number
+decimal = float(input("Enter a decimal number: "))
+
+# Ask the user to enter text
+text = input("Enter any text: ")
+
+# Ask the user to enter True or False
+boolean = bool(input("Enter True or False: "))
+
+# Show the results
+print("Integer:", number)
+print("Float:", decimal)
+print("String:", text)
+print("Boolean:", boolean)
+```
+
+---
+
 # 📂 Files in This Folder
 
 ```
@@ -83,7 +110,8 @@ d03_input_basic
 │
 ├── input_basic.py
 ├── greeting_program.py
-└── name_age_input.py
+├── name_age_input.py
+└── input_data_types.py
 ```
 
 Each file demonstrates a slightly different way of working with the `input()` function.
