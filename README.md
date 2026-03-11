@@ -3,25 +3,41 @@ One million projects. One path to mastery.
 
 Progress: [░░░░░░░░░░] 0.0001% complete
 
+---
+
 # 🐍 d02_variables_and_types
 
-This project is part of the **1M Python Journey** — a long-term learning path where I build small projects while studying Python and Computer Science.
+## 📚 Topic
+**Python Variables and Basic Data Types**
 
-In this task I learned how to:
-- create variables
-- store different types of data
-- print values
-- understand basic Python data types
+This small program demonstrates how to create variables in Python and use them inside a sentence.
 
 ---
 
-## 🧠 What I Learned
+# 🧠 What This Program Does
 
-### Variables
-A **variable** is a container that stores data.
+The program:
 
-Example:
+1. Creates three variables:
+   - `name`
+   - `age`
+   - `city`
+
+2. Stores different types of data:
+   - text (string)
+   - number (integer)
+
+3. Prints a sentence using these variables.
+
+---
+
+# 💻 Python Code
 
 ```python
-name = "Lola"
-age = 34
+# Create variables
+name = "Anna"
+age = 25
+city = "London"
+
+# Print a sentence using variables
+print("My name is", name, "I'm", age, "and I live in", city)
