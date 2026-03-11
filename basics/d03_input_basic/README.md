@@ -1,17 +1,30 @@
-# Welcome to DataAstral  
+# Welcome to DataAstral
 One million projects. One path to mastery.
 
 Progress: [░░░░░░░░░░] 0.0001% complete
 
+---
 
-# 🧩 Basic User Input in Python
+# 🐍 d03_input_basic
 
-This project demonstrates how to read text from the user using the built-in `input()` function and then print the same text back.  
-It is a fundamental building block for any interactive Python program.
+## 📚 Topic
+**Python User Input (input function)**
+
+This small program demonstrates how Python can receive text from the user and display it back.
 
 ---
 
-## 📄 Code Example
+# 🧠 What This Program Does
+
+The program:
+
+1. Asks the user to type something.
+2. Stores the typed text in a variable called `user_input`.
+3. Prints the same text back to the screen.
+
+---
+
+# 💻 Python Code
 
 ```python
 # Ask the user to type something
@@ -19,8 +32,3 @@ user_input = input("Type something: ")
 
 # Show the same text back to the user
 print("You typed:", user_input)
-
-#📘 Key Concepts
-	•	input() — reads user input as a string.
-	•	Variables — store the user’s response.
-	•	print() — outputs information back to the screen.
