@@ -1,16 +1,18 @@
 # Welcome to DataAstral
+
 One million projects. One path to mastery.
 
 Progress: [░░░░░░░░░░] 0.0001% complete
 
 ---
 
-# 🐍 d02_variables_and_types
+# **⌨️** d02_variables_and_types
 
-## 📚 Topic
+## ⚙️ Topic
+
 **Python Variables and Basic Data Types**
 
-This small program demonstrates how to create variables in Python and use them inside a sentence.
+This program demonstrates how Python stores data in variables and uses them to create a sentence.
 
 ---
 
@@ -18,26 +20,33 @@ This small program demonstrates how to create variables in Python and use them i
 
 The program:
 
-1. Creates three variables:
-   - `name`
-   - `age`
-   - `city`
-
-2. Stores different types of data:
-   - text (string)
-   - number (integer)
-
-3. Prints a sentence using these variables.
+1. Creates variables for name, age, and city.
+2. Stores text and number values.
+3. Combines the variables into one sentence.
+4. Prints the result to the screen.
 
 ---
 
 # 💻 Python Code
 
 ```python
-# Create variables
+# Create a variable for name
 name = "Anna"
+
+# Create a variable for age
 age = 25
+
+# Create a variable for city
 city = "London"
 
 # Print a sentence using variables
 print("My name is", name, "I'm", age, "and I live in", city)
+```
+
+---
+
+# **🔎 Output Preview**
+
+```python
+My name is Anna I'm 25 and I live in London
+```
