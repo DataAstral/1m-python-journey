@@ -6,9 +6,9 @@ Progress: [░░░░░░░░░░] 0.0001% complete
 
 ---
 
-# 🐍 d03_input_basic
+# ⌨️ d03_input_basic
 
-## 📚 Topic
+## ⚙️ Topic
 
 **Python User Input (`input()` function)**
 
