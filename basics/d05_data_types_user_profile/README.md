@@ -6,7 +6,7 @@ Progress: [░░░░░░░░░░] 0.0001% complete
 
 ---
 
-# **👤** d05_user_profile
+# **👤** d05_data_types_user_profile
 
 ## ⚙️ Topic
 
