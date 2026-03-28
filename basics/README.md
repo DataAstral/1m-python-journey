@@ -129,9 +129,9 @@ d05_variables_strings_user_card
 
 # 🚀 Next Step
 
-- 🔁 Loops (`for`, `while`)  
-- 🧠 Functions  
-- 📦 Lists & Dictionaries  
+-  Loops (`for`, `while`)  
+-  Functions  
+-  Lists & Dictionaries  
 
 ---
 
