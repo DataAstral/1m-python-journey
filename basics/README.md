@@ -10,11 +10,7 @@ Progress: [░░░░░░░░░░] 0.0001% complete
 
 ---
 
-# **➤** basics
-
-## ⚙️ Topic
-
-**Python Basics (from zero to structured thinking)**
+## **➤** basics
 
 This folder contains my first Python programs where I learned how programming works step by step.
 
