@@ -139,7 +139,7 @@ d05_variables_strings_user_card
 
 ---
 
-# 🧩 My Learning Progress
+# 🦾 My Learning Progress
 
 - [x] Hello World  
 - [x] Variables & Types  
