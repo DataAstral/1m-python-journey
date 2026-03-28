@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DataAstral/DataAstral/main/banner.png" width="100%">
+</p>
 Welcome to DataAstral  
 One million projects. One path to mastery.
 
