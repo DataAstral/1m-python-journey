@@ -10,7 +10,7 @@ Progress: [░░░░░░░░░░] 0.0001% complete
 
 ---
 
-# **📦** basics
+# **➤** basics
 
 ## ⚙️ Topic
 
