@@ -10,7 +10,7 @@ Progress: [░░░░░░░░░░] 0.0001% complete
 
 ---
 
-## **➤** basics
+## ➤ basics
 
 This folder contains my first Python programs where I learned how programming works step by step.
 
@@ -31,7 +31,7 @@ d05_variables_strings_user_card
 
 ---
 
-# 🧠 What I Learned (Real Practice)
+## 🧠 What I Learned (Real Practice)
 
 ### [d01 — Hello World](./d01_hello_world)
 
@@ -107,7 +107,7 @@ d05_variables_strings_user_card
 
 ---
 
-# 💻 What Kind of Programs I Built
+## 💻 What Kind of Programs I Built
 
 -  Interactive CLI programs  
 -  User profile generator  
@@ -117,7 +117,7 @@ d05_variables_strings_user_card
 
 ---
 
-# 🎯 Skills Gained
+## 🎯 Skills Gained
 
 - Understanding how programs execute step by step  
 - Writing clean and readable Python code  
@@ -127,7 +127,7 @@ d05_variables_strings_user_card
 
 ---
 
-# 🚀 Next Step
+## 🚀 Next Step
 
 -  Loops (`for`, `while`)  
 -  Functions  
@@ -135,7 +135,7 @@ d05_variables_strings_user_card
 
 ---
 
-# 🦾 My Learning Progress
+## 🦾 My Learning Progress
 
 - [x] Hello World  
 - [x] Variables & Types  
