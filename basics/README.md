@@ -109,11 +109,11 @@ d05_variables_strings_user_card
 
 # 💻 What Kind of Programs I Built
 
-- 🧩 Interactive CLI programs  
-- 🧩 User profile generator  
-- 🧩 Mood-based logic program  
-- 🧩 Arithmetic calculator  
-- 🧩 Comparison tools  
+-  Interactive CLI programs  
+-  User profile generator  
+-  Mood-based logic program  
+-  Arithmetic calculator  
+-  Comparison tools  
 
 ---
 
