@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/DataAstral/DataAstral/main/banner.png" width="100%">
 </p>
+
 # Welcome to DataAstral
 
 One million projects. One path to mastery.
@@ -9,9 +10,13 @@ Progress: [░░░░░░░░░░] 0.0001% complete
 
 ---
 
-# 📦 basics
+# **📦** basics
 
-Python fundamentals. Core syntax, data handling, and basic program flow.
+## ⚙️ Topic
+
+**Python Basics (from zero to structured thinking)**
+
+This folder contains my first Python programs where I learned how programming works step by step.
 
 ---
 
@@ -30,58 +35,116 @@ d05_variables_strings_user_card
 
 ---
 
-## 🔗 Modules
+# 🧠 What I Learned (Real Practice)
 
-### [d01_hello_world](./d01_hello_world)  
-print()
+### [d01 — Hello World](./d01_hello_world)
 
----
-
-### [d02_variables_and_types](./d02_variables_and_types)  
-variables, str, int, float, bool, type()
+- How to run a Python program  
+- Using `print()` to display output  
 
 ---
 
-### [d03_input_basic](./d03_input_basic)  
-input(), type conversion
+### [d02 — Variables & Data Types](./d02_variables_and_types)
+
+- Creating variables  
+- Understanding:
+  - `str`
+  - `int`
+  - `float`
+  - `bool`  
+- Checking types using `type()`  
 
 ---
 
-### [d04_arithmetic](./d04_arithmetic)  
-+, -, *, /, //, %
+### [d03 — User Input](./d03_input_basic)
+
+- Using `input()` to get data from user  
+- Converting input using:
+  - `int()`
+  - `str()`  
+- Basic interaction with user  
 
 ---
 
-### [d04_compare_and_logic](./d04_compare_and_logic)  
-==, !=, >, <, >=, <=, and, or, not
+### [d04 — Arithmetic Operations](./d04_arithmetic)
+
+- Performing calculations:
+  - `+`, `-`, `*`, `/`
+  - `//`, `%`  
+- Building simple calculator logic  
 
 ---
 
-### [d05_data_types_user_profile](./d05_data_types_user_profile)  
-data handling, formatted output
+### [d04 — Comparison & Logic](./d04_compare_and_logic)
+
+- Comparison operators:
+  - `==`, `!=`, `>`, `<`, `>=`, `<=`  
+- Logical operators:
+  - `and`, `or`, `not`  
+- Evaluating conditions  
 
 ---
 
-### [d05_input_types_mood_calculator](./d05_input_types_mood_calculator)  
-multi-input, basic logic
+### [d05 — User Profile Program](./d05_data_types_user_profile)
+
+- Combining different data types  
+- Creating structured output  
+- Simulating real user data  
 
 ---
 
-### [d05_variables_strings_user_card](./d05_variables_strings_user_card)  
-string methods, indexing, f-strings
+### [d05 — Mood Calculator](./d05_input_types_mood_calculator)
+
+- Multiple user inputs  
+- Simple logic based on input  
+- Combining numbers and text  
 
 ---
 
-## 🧠 Scope
+### [d05 — User Card (Strings & Formatting)](./d05_variables_strings_user_card)
 
-- basic syntax  
-- input/output  
-- operators  
-- conditions  
-- simple CLI programs  
+- String operations:
+  - `.lower()`
+  - `.upper()`
+  - indexing `[0]`  
+- Using `f-strings`  
 
 ---
 
-## 🚀 Next
+# 💻 What Kind of Programs I Built
 
-loops → data structures → functions
+- 🧩 Interactive CLI programs  
+- 🧩 User profile generator  
+- 🧩 Mood-based logic program  
+- 🧩 Arithmetic calculator  
+- 🧩 Comparison tools  
+
+---
+
+# 🎯 Skills Gained
+
+- Understanding how programs execute step by step  
+- Writing clean and readable Python code  
+- Working with user input and output  
+- Applying logic and conditions  
+- Combining multiple concepts in one program  
+
+---
+
+# 🚀 Next Step
+
+- 🔁 Loops (`for`, `while`)  
+- 🧠 Functions  
+- 📦 Lists & Dictionaries  
+
+---
+
+# 🧩 My Learning Progress
+
+- [x] Hello World  
+- [x] Variables & Types  
+- [x] Input  
+- [x] Arithmetic  
+- [x] Comparison & Logic  
+- [x] Strings  
+- [x] Simple Programs  
