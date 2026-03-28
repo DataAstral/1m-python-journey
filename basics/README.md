@@ -9,136 +9,79 @@ Progress: [░░░░░░░░░░] 0.0001% complete
 
 ---
 
-# **📦** basics
+# 📦 basics
 
-## ⚙️ Topic
-
-**Python Basics (from zero to structured thinking)**
-
-This folder contains my first Python programs where I learned how programming works step by step.
+Python fundamentals. Core syntax, data handling, and basic program flow.
 
 ---
 
-# 🧠 What I Learned (Real Practice)
+## 📂 Structure
 
-### 🟢 d01 — Hello World  
-👉 [Open folder](./d01_hello_world)
-
-- How to run a Python program  
-- Using `print()` to display output  
-
----
-
-### 🟢 d02 — Variables & Data Types  
-👉 [Open folder](./d02_variables_and_types)
-
-- Creating variables  
-- Understanding:
-  - `str`
-  - `int`
-  - `float`
-  - `bool`  
-- Checking types using `type()`  
+```
+d01_hello_world
+d02_variables_and_types
+d03_input_basic
+d04_arithmetic
+d04_compare_and_logic
+d05_data_types_user_profile
+d05_input_types_mood_calculator
+d05_variables_strings_user_card
+```
 
 ---
 
-### 🟢 d03 — User Input  
-👉 [Open folder](./d03_input_basic)
+## 🔗 Modules
 
-- Using `input()` to get data from user  
-- Converting input using:
-  - `int()`
-  - `str()`  
-- Basic interaction with user  
+### [d01_hello_world](./d01_hello_world)  
+print()
 
 ---
 
-### 🟢 d04 — Arithmetic Operations  
-👉 [Open folder](./d04_arithmetic)
-
-- Performing calculations:
-  - `+`, `-`, `*`, `/`
-  - `//`, `%`  
-- Building simple calculator logic  
+### [d02_variables_and_types](./d02_variables_and_types)  
+variables, str, int, float, bool, type()
 
 ---
 
-### 🟢 d04 — Comparison & Logic  
-👉 [Open folder](./d04_compare_and_logic)
-
-- Comparison operators:
-  - `==`, `!=`, `>`, `<`, `>=`, `<=`  
-- Logical operators:
-  - `and`, `or`, `not`  
-- Evaluating conditions  
+### [d03_input_basic](./d03_input_basic)  
+input(), type conversion
 
 ---
 
-### 🟢 d05 — User Profile Program  
-👉 [Open folder](./d05_data_types_user_profile)
-
-- Combining different data types  
-- Creating structured output  
-- Simulating real user data  
+### [d04_arithmetic](./d04_arithmetic)  
++, -, *, /, //, %
 
 ---
 
-### 🟢 d05 — Mood Calculator  
-👉 [Open folder](./d05_input_types_mood_calculator)
-
-- Multiple user inputs  
-- Simple logic based on input  
-- Combining numbers and text  
+### [d04_compare_and_logic](./d04_compare_and_logic)  
+==, !=, >, <, >=, <=, and, or, not
 
 ---
 
-### 🟢 d05 — User Card (Strings & Formatting)  
-👉 [Open folder](./d05_variables_strings_user_card)
-
-- String operations:
-  - `.lower()`
-  - `.upper()`
-  - indexing `[0]`  
-- Using `f-strings`  
+### [d05_data_types_user_profile](./d05_data_types_user_profile)  
+data handling, formatted output
 
 ---
 
-# 💻 What Kind of Programs I Built
-
-- 🧩 Interactive CLI programs  
-- 🧩 User profile generator  
-- 🧩 Mood-based logic program  
-- 🧩 Arithmetic calculator  
-- 🧩 Comparison tools  
+### [d05_input_types_mood_calculator](./d05_input_types_mood_calculator)  
+multi-input, basic logic
 
 ---
 
-# 🎯 Skills Gained
-
-- Understanding how programs execute step by step  
-- Writing clean and readable Python code  
-- Working with user input and output  
-- Applying logic and conditions  
-- Combining multiple concepts in one program  
+### [d05_variables_strings_user_card](./d05_variables_strings_user_card)  
+string methods, indexing, f-strings
 
 ---
 
-# 🚀 Next Step
+## 🧠 Scope
 
-- 🔁 Loops (`for`, `while`)  
-- 🧠 Functions  
-- 📦 Lists & Dictionaries  
-
----
-
-# 🧩 My Learning Progress
-
-- [x] Hello World  
-- [x] Variables & Types  
-- [x] Input  
-- [x] Arithmetic  
-- [x] Comparison & Logic  
-- [x] Strings  
-- [x] Simple Programs  
+- basic syntax  
+- input/output  
+- operators  
+- conditions  
+- simple CLI programs  
 
 ---
+
+## 🚀 Next
+
+loops → data structures → functions
