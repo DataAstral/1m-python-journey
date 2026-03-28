@@ -21,100 +21,113 @@ This folder contains my first Python programs where I learned how programming wo
 
 # 🧠 What I Learned (Real Practice)
 
-### 🟢 d01 — Hello World
-- How to run a Python program
-- Using `print()` to display output
+### 🟢 d01 — Hello World  
+👉 [Open folder](./d01_hello_world)
+
+- How to run a Python program  
+- Using `print()` to display output  
 
 ---
 
-### 🟢 d02 — Variables & Data Types
-- Creating variables
+### 🟢 d02 — Variables & Data Types  
+👉 [Open folder](./d02_variables_and_types)
+
+- Creating variables  
 - Understanding:
   - `str`
   - `int`
   - `float`
-  - `bool`
-- Checking types using `type()`
+  - `bool`  
+- Checking types using `type()`  
 
 ---
 
-### 🟢 d03 — User Input
-- Using `input()` to get data from user
+### 🟢 d03 — User Input  
+👉 [Open folder](./d03_input_basic)
+
+- Using `input()` to get data from user  
 - Converting input using:
   - `int()`
-  - `str()`
-- Basic interaction with user
+  - `str()`  
+- Basic interaction with user  
 
 ---
 
-### 🟢 d04 — Arithmetic Operations
+### 🟢 d04 — Arithmetic Operations  
+👉 [Open folder](./d04_arithmetic)
+
 - Performing calculations:
   - `+`, `-`, `*`, `/`
-  - `//`, `%`
-- Building simple calculator logic
+  - `//`, `%`  
+- Building simple calculator logic  
 
 ---
 
-### 🟢 d04 — Comparison & Logic
+### 🟢 d04 — Comparison & Logic  
+👉 [Open folder](./d04_compare_and_logic)
+
 - Comparison operators:
-  - `==`, `!=`, `>`, `<`, `>=`, `<=`
+  - `==`, `!=`, `>`, `<`, `>=`, `<=`  
 - Logical operators:
-  - `and`, `or`, `not`
-- Evaluating conditions
+  - `and`, `or`, `not`  
+- Evaluating conditions  
 
 ---
 
-### 🟢 d05 — Working with Strings & Data
+### 🟢 d05 — User Profile Program  
+👉 [Open folder](./d05_data_types_user_profile)
+
+- Combining different data types  
+- Creating structured output  
+- Simulating real user data  
+
+---
+
+### 🟢 d05 — Mood Calculator  
+👉 [Open folder](./d05_input_types_mood_calculator)
+
+- Multiple user inputs  
+- Simple logic based on input  
+- Combining numbers and text  
+
+---
+
+### 🟢 d05 — User Card (Strings & Formatting)  
+👉 [Open folder](./d05_variables_strings_user_card)
+
 - String operations:
   - `.lower()`
   - `.upper()`
-  - indexing `[0]`
-- Creating formatted output with `f-strings`
-
----
-
-### 🟢 d05 — User Profile Program
-- Combining different data types
-- Creating structured output
-- Simulating real user data
-
----
-
-### 🟢 d05 — Mood Calculator
-- Multiple user inputs
-- Simple logic based on input
-- Combining numbers and text
+  - indexing `[0]`  
+- Using `f-strings`  
 
 ---
 
 # 💻 What Kind of Programs I Built
 
-- 🧩 Interactive CLI programs
-- 🧩 User profile generator
-- 🧩 Mood-based logic program
-- 🧩 Arithmetic calculator
-- 🧩 Comparison tools
+- 🧩 Interactive CLI programs  
+- 🧩 User profile generator  
+- 🧩 Mood-based logic program  
+- 🧩 Arithmetic calculator  
+- 🧩 Comparison tools  
 
 ---
 
 # 🎯 Skills Gained
 
-- Understanding how programs execute step by step
-- Writing clean and readable Python code
-- Working with user input and output
-- Applying logic and conditions
-- Combining multiple concepts in one program
+- Understanding how programs execute step by step  
+- Writing clean and readable Python code  
+- Working with user input and output  
+- Applying logic and conditions  
+- Combining multiple concepts in one program  
 
 ---
 
 # 🚀 Next Step
 
-Move from basics → structured programming:
-
-- 🔁 Loops (`for`, `while`)
-- 🧠 Functions
-- 📦 Lists & Dictionaries
-- ⚙️ More complex logic
+- 🔁 Loops (`for`, `while`)  
+- 🧠 Functions  
+- 📦 Lists & Dictionaries  
 
 ---
 
