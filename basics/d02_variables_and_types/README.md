@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/DataAstral/DataAstral/main/banner.png" width="100%">
 </p>
+
 # Welcome to DataAstral
 
 One million projects. One path to mastery.
@@ -9,9 +10,7 @@ Progress: [░░░░░░░░░░] 0.0001% complete
 
 ---
 
-# **⌨️** d02_variables_and_types
-
-## ⚙️ Topic
+## **⌨️** d02_variables_and_types
 
 **Python Variables and Basic Data Types**
 
@@ -19,7 +18,7 @@ This program demonstrates how Python stores data in variables and uses them to c
 
 ---
 
-# 🧠 What This Program Does
+##  What This Program Does
 
 The program:
 
@@ -30,7 +29,7 @@ The program:
 
 ---
 
-# 💻 Python Code
+## 💻 Python Code
 
 ```python
 # Create a variable for name
@@ -48,7 +47,7 @@ print("My name is", name, "I'm", age, "and I live in", city)
 
 ---
 
-# **🔎 Output Preview**
+## **🔎 Output Preview**
 
 ```python
 My name is Anna I'm 25 and I live in London
