@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/DataAstral/DataAstral/main/banner.png" width="100%">
 </p>
+
 # Welcome to DataAstral
 
 One million projects. One path to mastery.
@@ -9,9 +10,7 @@ Progress: [░░░░░░░░░░] 0.0001% complete
 
 ---
 
-# **⌨️** d04_arithmetic_operations
-
-## ⚙️ Topic
+## d04_arithmetic_operations
 
 **Python Arithmetic Operations (User Input + Math)**
 
@@ -19,7 +18,7 @@ This program demonstrates how to take numbers from the user and perform basic ar
 
 ---
 
-# 🧠 What This Program Does
+## What This Program Does
 
 The program:
 
@@ -30,7 +29,7 @@ The program:
 
 ---
 
-# 💻 Python Code
+## 💻 Python Code
 
 ```python
 # Ask the user for the first number and convert it to integer
@@ -62,7 +61,7 @@ print("Remainder (modulus):", a % b)
 
 ---
 
-# 🔎 Output Preview
+## 🔎 Output Preview
 
 ```python
 Enter the first number: 10
@@ -78,7 +77,7 @@ Remainder (modulus): 1
 
 ---
 
-# 📚 Key Concepts
+## 📚 Key Concepts
 
 - `input()` → gets data from the user  
 - `int()` → converts text to numbers  
@@ -91,7 +90,7 @@ Remainder (modulus): 1
 
 ---
 
-# 🚀 My Learning Progress
+## 🚀 My Learning Progress
 
 - [x] Variables and Data Types  
 - [x] User Input (`input()`)  
