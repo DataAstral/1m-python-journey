@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/DataAstral/DataAstral/main/banner.png" width="100%">
 </p>
+
 # Welcome to DataAstral
 
 One million projects. One path to mastery.
@@ -9,9 +10,7 @@ Progress: [░░░░░░░░░░] 0.0001% complete
 
 ---
 
-# ⌨️ d03_input_basic
-
-## ⚙️ Topic
+## d03_input_basic
 
 **Python User Input (`input()` function)**
 
@@ -21,7 +20,7 @@ User input is one of the most important basics in programming because it allows 
 
 ---
 
-# 🧠 What These Programs Do
+## What These Programs Do
 
 These programs demonstrate:
 
@@ -34,7 +33,7 @@ The examples gradually become slightly more complex.
 
 ---
 
-# 💻 Program 1 — Basic Input
+## 💻 Program 1 — Basic Input
 
 This program asks the user to type something and then prints the same text.
 
@@ -48,7 +47,7 @@ print("You typed:", user_input)
 
 ---
 
-# 💻 Program 2 — Greeting Program
+## 💻 Program 2 — Greeting Program
 
 This program asks the user for their name and greets them.
 
@@ -60,7 +59,7 @@ print("Hello,", name)
 
 ---
 
-# 💻 Program 3 — Name and Age Input
+## 💻 Program 3 — Name and Age Input
 
 This program asks the user for their name and age, then prints a message.
 
@@ -80,7 +79,7 @@ print("Hello", name, "you are", age, "years old.")
 
 ---
 
-# 💻 Program 4 — Input Data Types
+## 💻 Program 4 — Input Data Types
 
 This program demonstrates how user input can be converted into different data types.
 
@@ -106,7 +105,7 @@ print("Boolean:", boolean)
 
 ---
 
-# 📂 Files in This Folder
+## 📂 Files in This Folder
 
 ```
 d03_input_basic
