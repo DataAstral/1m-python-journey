@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/DataAstral/DataAstral/main/banner.png" width="100%">
 </p>
+
 # Welcome to DataAstral
 
 One million projects. One path to mastery.
@@ -9,7 +10,7 @@ Progress: [░░░░░░░░░░] 0.0006% complete
 
 ---
 
-# **⌨️** d06_if_else_age_access_check
+## d06_if_else_age_access_check
 
 **Python Conditions (if / else statements)**
 
@@ -17,7 +18,7 @@ This program demonstrates how Python can make decisions based on user input.
 
 ---
 
-# What This Program Does
+## What This Program Does
 
 The program:
 
@@ -29,7 +30,7 @@ The program:
 
 ---
 
-# 💻 Python Code
+## 💻 Python Code
 
 ```python
 # Ask the user to enter their age (as a string)
@@ -49,7 +50,7 @@ else:
 
 ---
 
-# 🔎 Output Preview
+## 🔎 Output Preview
 
 ```python
 Enter your age: 16
