@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/DataAstral/DataAstral/main/banner.png" width="100%">
 </p>
+
 # Welcome to DataAstral
 
 One million projects. One path to mastery.
@@ -9,9 +10,7 @@ Progress: [░░░░░░░░░░] 0.0001% complete
 
 ---
 
-# **👤** d05_data_types_user_profile
-
-## ⚙️ Topic
+## d05_data_types_user_profile
 
 **Python Variables & Data Types**
 
@@ -19,7 +18,7 @@ This program demonstrates how to store user information using different data typ
 
 ---
 
-# 🧠 What This Program Does
+## What This Program Does
 
 The program:
 
@@ -30,7 +29,7 @@ The program:
 
 ---
 
-# 💻 Python Code
+## 💻 Python Code
 
 ```python
 # Create user profile variables
@@ -57,7 +56,7 @@ print(type(is_student))  # is_student
 
 ---
 
-# 🔎 Output Preview
+## 🔎 Output Preview
 
 ```python
 Anna
@@ -74,7 +73,7 @@ True
 
 ---
 
-# 🧩 Notes
+## Notes
 
 - Each variable has a specific data type:
   - `str` → text
@@ -83,13 +82,3 @@ True
   - `bool` → True / False
 - `type()` helps you understand what kind of data you are working with.
 - This is a basic foundation for building real applications (forms, databases, APIs).
-
----
-
-# 🚀 My Learning Progress
-
-- [x] Variables and data types  
-- [x] Printing values  
-- [x] Using `type()` for debugging  
-- [ ] User input  
-- [ ] Conditional logic  
