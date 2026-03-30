@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/DataAstral/DataAstral/main/banner.png" width="100%">
 </p>
+
 # Welcome to DataAstral
 
 One million projects. One path to mastery.
@@ -17,7 +18,7 @@ This program demonstrates how to control access using conditions based on age an
 
 ---
 
-# What This Program Does
+## What This Program Does
 
 The program:
 
@@ -28,7 +29,7 @@ The program:
 
 ---
 
-# 💻 Python Code
+## 💻 Python Code
 
 ```python
 # Access control system
@@ -48,7 +49,7 @@ else:
 
 ---
 
-# 🔎 Output Preview
+## 🔎 Output Preview
 
 ```python
 Welcome!
