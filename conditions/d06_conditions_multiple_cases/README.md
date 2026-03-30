@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/DataAstral/DataAstral/main/banner.png" width="100%">
 </p>
+
 # Welcome to DataAstral
 
 One million projects. One path to mastery.
@@ -9,9 +10,7 @@ Progress: [░░░░░░░░░░] 0.0001% complete
 
 ---
 
-# **🌐** d06_conditions_multiple_cases
-
-## ⚙️ Topic
+## d06_conditions_multiple_cases
 
 **Python Conditions (`if`, `elif`, `else`) — Multiple Cases Handling**
 
@@ -19,7 +18,7 @@ This program demonstrates how Python handles multiple conditions using an `if �
 
 ---
 
-# 🧠 What This Program Does
+## What This Program Does
 
 The program:
 
@@ -31,7 +30,7 @@ The program:
 
 ---
 
-# 💻 Python Code
+## 💻 Python Code
 
 ```python
 # HTTP status classification (real backend pattern)
@@ -50,7 +49,7 @@ else:
 
 ---
 
-# 🔎 Output Preview
+## 🔎 Output Preview
 
 ```python
 Not Found — resource not found
