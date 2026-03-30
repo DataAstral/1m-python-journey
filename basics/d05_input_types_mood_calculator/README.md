@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/DataAstral/DataAstral/main/banner.png" width="100%">
 </p>
+
 # Welcome to DataAstral
 
 One million projects. One path to mastery.
@@ -9,9 +10,7 @@ Progress: [░░░░░░░░░░] 0.0001% complete
 
 ---
 
-# **⌨️** d05_input_types_mood_calculator
-
-## ⚙️ Topic
+## d05_input_types_mood_calculator
 
 **Python Input, Data Types, and Simple Logic**
 
@@ -19,7 +18,7 @@ This program demonstrates how to collect user data, process it, and display mean
 
 ---
 
-# 🧠 What This Program Does
+## What This Program Does
 
 The program:
 
@@ -31,7 +30,7 @@ The program:
 
 ---
 
-# 💻 Python Code
+## 💻 Python Code
 
 ```python
 # Ask for the user's name
@@ -67,7 +66,7 @@ print("Advice: you should get more sleep")
 
 ---
 
-# 🔎 Output Preview
+## 🔎 Output Preview
 
 ```python
 Enter your name: Anna
