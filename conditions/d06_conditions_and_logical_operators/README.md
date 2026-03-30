@@ -11,15 +11,13 @@ Progress: [░░░░░░░░░░] 0.0001% complete
 
 # **🔐** d06_conditions_and_logical_operators
 
-## ⚙️ Topic
-
 **Python Conditions + Logical Operators (`and`, `not`)**
 
 This program demonstrates how to control access using conditions based on age and ticket availability.
 
 ---
 
-# 🧠 What This Program Does
+# What This Program Does
 
 The program:
 
