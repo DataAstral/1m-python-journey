@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/DataAstral/DataAstral/main/banner.png" width="100%">
 </p>
+
 # Welcome to DataAstral
 
 One million projects. One path to mastery.
@@ -9,7 +10,7 @@ Progress: [░░░░░░░░░░] 0.0001% complete
 
 ---
 
-# **🔐** d08_nested_conditions_with_input_system
+## d08_nested_conditions_with_input_system
 
 **Python Nested Conditions (`if inside if`) + User Input + Boolean Logic**
 
@@ -17,7 +18,7 @@ This program demonstrates how to build a multi-step decision system using nested
 
 ---
 
-# What This Program Does
+## What This Program Does
 
 The program:
 
@@ -33,7 +34,7 @@ The program:
 
 ---
 
-# 💻 Python Code
+## 💻 Python Code
 
 ```python
 # 🔐 Security access system with user input
@@ -70,7 +71,7 @@ else:
 
 ---
 
-# 🔎 Output Preview
+## 🔎 Output Preview
 
 ```python
 Enter your age: 20
