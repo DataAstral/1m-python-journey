@@ -37,7 +37,7 @@ The program:
 ## 💻 Python Code
 
 ```python
-# 🔐 Security access system with user input
+# Security access system with user input
 
 # Ask the user for their age
 age = int(input("Enter your age: "))
