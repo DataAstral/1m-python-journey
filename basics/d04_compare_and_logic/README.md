@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/DataAstral/DataAstral/main/banner.png" width="100%">
 </p>
+
 # Welcome to DataAstral
 
 One million projects. One path to mastery.
@@ -9,9 +10,7 @@ Progress: [░░░░░░░░░░] 0.0001% complete
 
 ---
 
-# **⌨️** d04_comparison_and_logic
-
-## ⚙️ Topic
+## d04_comparison_and_logic
 
 **Comparison Operators & Logical Expressions in Python**
 
@@ -19,7 +18,7 @@ This program demonstrates how Python compares values and evaluates logical condi
 
 ---
 
-# 🧠 What This Program Does
+## What This Program Does
 
 The program:
 
@@ -30,7 +29,7 @@ The program:
 
 ---
 
-# 💻 Python Code
+## 💻 Python Code
 
 ```python
 # Ask the user for two numbers
@@ -53,7 +52,7 @@ print("a is not positive:", not (a > 0))           # True if a is NOT positive
 
 ---
 
-# 🔎 Output Preview
+## 🔎 Output Preview
 
 ```python
 Enter the first number: 5
