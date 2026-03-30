@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/DataAstral/DataAstral/main/banner.png" width="100%">
 </p>
+
 # Welcome to DataAstral
 
 One million projects. One path to mastery.
@@ -9,7 +10,7 @@ Progress: [░░░░░░░░░░] 0.0001% complete
 
 ---
 
-# **✈️** d07_conditions_and_logical_operators_and
+## d07_conditions_and_logical_operators_and
 
 **Python Conditions + Logical Operator (`and`)**
 
@@ -17,7 +18,7 @@ This program demonstrates how to use the `and` operator to check multiple condit
 
 ---
 
-#  What This Program Does
+##  What This Program Does
 
 The program:
 
@@ -29,10 +30,10 @@ The program:
 
 ---
 
-# 💻 Python Code
+## 💻 Python Code
 
 ```python
-# 🧩 Travel eligibility check
+#  Travel eligibility check
 
 # Ask if the user has a passport
 passport = input("Do you have a passport? (yes/no): ")
@@ -51,7 +52,7 @@ else:
 
 ---
 
-# 🔎 Output Preview
+## 🔎 Output Preview
 
 ```python
 Do you have a passport? (yes/no): yes
