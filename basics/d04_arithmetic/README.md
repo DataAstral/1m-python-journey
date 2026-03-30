@@ -77,7 +77,7 @@ Remainder (modulus): 1
 
 ---
 
-## 📚 Key Concepts
+## Key Concepts
 
 - `input()` → gets data from the user  
 - `int()` → converts text to numbers  
@@ -87,17 +87,3 @@ Remainder (modulus): 1
 - `/` → division (float result)  
 - `//` → floor division (integer result)  
 - `%` → modulus (remainder)
-
----
-
-## 🚀 My Learning Progress
-
-- [x] Variables and Data Types  
-- [x] User Input (`input()`)  
-- [x] Arithmetic Operations  
-- [ ] Conditions (`if, elif, else`)  
-- [ ] Loops (`for`, `while`)  
-
----
-
-💡 *This is one of the most important beginner steps — almost every real program uses user input and calculations.*
