@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/DataAstral/DataAstral/main/banner.png" width="100%">
 </p>
+
 # Welcome to DataAstral
 
 One million projects. One path to mastery.
@@ -9,7 +10,7 @@ Progress: [░░░░░░░░░░] 0.0001% complete
 
 ---
 
-# **🔐** d08_nested_conditions_with_input
+## d08_nested_conditions_with_input
 
 **Python Nested Conditions (`if inside if`) + User Input + `.lower()`**
 
@@ -17,7 +18,7 @@ This program demonstrates how to use nested conditions together with user input 
 
 ---
 
-# 🧠 What This Program Does
+## What This Program Does
 
 The program:
 
@@ -31,10 +32,10 @@ The program:
 
 ---
 
-# 💻 Python Code
+## 💻 Python Code
 
 ```python
-# 🔐 Authentication system with user input
+# Authentication system with user input
 
 # Ask user to enter username
 username = input("Enter username: ").lower()
@@ -55,7 +56,7 @@ else:
 
 ---
 
-# 🔎 Output Preview
+## 🔎 Output Preview
 
 ```python
 Enter username: ADMIN
