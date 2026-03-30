@@ -9,7 +9,7 @@ Progress: [░░░░░░░░░░] 0.0001% complete
 
 ---
 
-# **🔐** d06_conditions_and_logical_operators
+## d06_conditions_and_logical_operators
 
 **Python Conditions + Logical Operators (`and`, `not`)**
 
