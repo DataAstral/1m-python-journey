@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/DataAstral/DataAstral/main/banner.png" width="100%">
 </p>
+
 # Welcome to DataAstral
 
 One million projects. One path to mastery.
@@ -9,7 +10,7 @@ Progress: [░░░░░░░░░░] 0.0001% complete
 
 ---
 
-# **🎯** d07_logical_operators_precedence
+## d07_logical_operators_precedence
 
 **Python Logical Operators + Condition Grouping (`and`, `or`, parentheses)**
 
@@ -17,7 +18,7 @@ This program demonstrates how Python evaluates complex logical expressions using
 
 ---
 
-# What This Program Does
+## What This Program Does
 
 The program:
 
@@ -31,7 +32,7 @@ The program:
 
 ---
 
-# 💻 Python Code
+## 💻 Python Code
 
 ```python
 # Access control with logical grouping
@@ -49,7 +50,7 @@ else:
 
 ---
 
-# 🔎 Output Preview
+## 🔎 Output Preview
 
 ```python
 Welcome!
