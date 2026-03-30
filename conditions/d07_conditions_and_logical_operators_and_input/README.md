@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/DataAstral/DataAstral/main/banner.png" width="100%">
 </p>
+
 # Welcome to DataAstral
 
 One million projects. One path to mastery.
@@ -9,7 +10,7 @@ Progress: [░░░░░░░░░░] 0.0001% complete
 
 ---
 
-# **🎓** d07_conditions_and_logical_operators_and_input
+## d07_conditions_and_logical_operators_and_input
 
 **Python Conditions + Logical Operator (`and`) + User Input**
 
@@ -17,7 +18,7 @@ This program demonstrates how to combine user input with logical conditions to m
 
 ---
 
-#  What This Program Does
+##  What This Program Does
 
 The program:
 
@@ -29,7 +30,7 @@ The program:
 
 ---
 
-# 💻 Python Code
+## 💻 Python Code
 
 ```python
 # Check exam result
@@ -52,7 +53,7 @@ else:
 
 ---
 
-# 🔎 Output Preview
+## 🔎 Output Preview
 
 ```python
 Let's check your results!
