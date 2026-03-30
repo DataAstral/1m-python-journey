@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/DataAstral/DataAstral/main/banner.png" width="100%">
 </p>
+
 # Welcome to DataAstral
 
 One million projects. One path to mastery.
@@ -9,9 +10,7 @@ Progress: [░░░░░░░░░░] 0.0001% complete
 
 ---
 
-# **⌨️** d05_variables_strings_user_card
-
-## ⚙️ Topic
+## d05_variables_strings_user_card
 
 **Python Variables, Strings & Formatting**
 
@@ -19,7 +18,7 @@ This program creates a simple **user card** using variables, string formatting, 
 
 ---
 
-# 🧠 What This Program Does
+## What This Program Does
 
 The program:
 
@@ -32,7 +31,7 @@ The program:
 
 ---
 
-# 💻 Python Code
+## 💻 Python Code
 
 ```python
 # Store user information
@@ -56,7 +55,7 @@ print(f"Username: {first_name.lower()}_{last_name.lower()}")  # Username format
 
 ---
 
-# 🔎 Output Preview
+## 🔎 Output Preview
 
 ```python
 === USER CARD ===
