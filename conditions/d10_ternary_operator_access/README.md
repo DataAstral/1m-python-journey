@@ -17,7 +17,7 @@ This program demonstrates how to use a **ternary operator** to make decisions in
 
 ---
 
-## 🧠 What This Program Does
+## What This Program Does
 
 The program:
 
@@ -60,7 +60,7 @@ Access denied
 
 ---
 
-## 🔑 Key Concept
+## Key Concept
 
 - `condition ? true : false` → ❌ (NOT Python)  
 - Python way:
