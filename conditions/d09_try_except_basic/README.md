@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/DataAstral/DataAstral/main/banner.png" width="100%">
 </p>
+
 # Welcome to DataAstral
 
 One million projects. One path to mastery.
@@ -9,7 +10,7 @@ Progress: [░░░░░░░░░░] 0.0001% complete
 
 ---
 
-# **🛡️** d09_try_except_basic
+## d09_try_except_basic
 
 **Python Error Handling (try / except basics)**
 
@@ -17,7 +18,7 @@ This program demonstrates how to handle runtime errors using a simple `try` and 
 
 ---
 
-# What This Program Does
+## What This Program Does
 
 The program:
 
@@ -29,7 +30,7 @@ The program:
 
 ---
 
-# ⚠️ Important Note
+## ⚠️ Important Note
 
 In this example, we use a **bare `except`**, which catches **all possible errors**.
 
@@ -47,7 +48,7 @@ Later, you will learn how to catch **specific errors** like:
 
 ---
 
-# 💻 Python Code
+## 💻 Python Code
 
 ```python
 # Try to execute code that may cause an error
@@ -66,7 +67,7 @@ except:
 
 ---
 
-# 🔎 Output Preview
+## 🔎 Output Preview
 
 ```python
 Please enter a number: 2
