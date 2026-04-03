@@ -12,13 +12,13 @@ Progress: [░░░░░░░░░░] 0.0001% complete
 
 ## ➤ conditions
 
-This folder contains my Python programs where I learned how to work with conditions, logical operators, and nested decision-making step by step.
+This folder contains my Python programs where I learned how to work with conditions, logical operators, nested decision-making, error handling, and ternary expressions step by step.
 
 ---
 
 ## 📂 Structure
 
-```
+```text
 d06_if_else_age_access_check
 d06_if_elif_else_mood_checker
 d06_conditions_multiple_cases
@@ -30,6 +30,17 @@ d07_logical_operators_precedence
 d08_nested_conditions_discount_system
 d08_nested_conditions_with_input
 d08_nested_conditions_with_input_system
+d09_try_except_basic
+d09_try_except_else
+d09_try_except_error_object
+d09_try_except_finally
+d09_try_except_input_validation
+d10_ternary_operator_access
+d10_ternary_operator_even_odd
+d10_ternary_operator_multiple_conditions
+d10_ternary_operator_try_except_else
+d10_ternary_operator_validation_temperature
+d10_ternary_operator_with_error_handling
 ```
 
 ---
@@ -128,13 +139,101 @@ d08_nested_conditions_with_input_system
 
 ---
 
+### [d09 — Try / Except Basics](./d09_try_except_basic)
+
+- Using `try` and `except` to prevent crashes  
+- Handling risky operations like division and conversion  
+- Understanding why broad error catching is useful for learning, but limited in real projects  
+
+---
+
+### [d09 — Try / Except / Else](./d09_try_except_else)
+
+- Catching specific errors with `ValueError`  
+- Using `else` when code runs successfully  
+- Separating error handling from success flow  
+
+---
+
+### [d09 — Exception Object](./d09_try_except_error_object)
+
+- Capturing errors with `as e`  
+- Reading real Python error messages  
+- Debugging code more clearly using exception details  
+
+---
+
+### [d09 — Try / Except / Finally](./d09_try_except_finally)
+
+- Using `finally` for code that must always run  
+- Finishing programs safely after success or failure  
+- Understanding cleanup logic in real applications  
+
+---
+
+### [d09 — Input Validation](./d09_try_except_input_validation)
+
+- Validating empty and invalid input  
+- Catching multiple errors with `except (ValueError, TypeError)`  
+- Combining error handling with normal program logic  
+
+---
+
+### [d10 — Ternary Access Check](./d10_ternary_operator_access)
+
+- Writing short conditional expressions in one line  
+- Replacing basic `if / else` with a ternary operator  
+- Making quick yes/no decisions based on input  
+
+---
+
+### [d10 — Ternary Even or Odd](./d10_ternary_operator_even_odd)
+
+- Using `%` to check divisibility  
+- Detecting even and odd numbers with a ternary operator  
+- Writing compact conditional output  
+
+---
+
+### [d10 — Multiple Ternary Conditions](./d10_ternary_operator_multiple_conditions)
+
+- Chaining multiple ternary expressions  
+- Handling several possible outcomes in one line  
+- Comparing compact syntax with clearer `if / elif / else` style  
+
+---
+
+### [d10 — Ternary + try / except / else](./d10_ternary_operator_try_except_else)
+
+- Combining ternary logic with full exception handling  
+- Running decision logic only after valid input  
+- Structuring safe and readable programs  
+
+---
+
+### [d10 — Temperature Validation](./d10_ternary_operator_validation_temperature)
+
+- Normalizing input with `.lower()`  
+- Validating allowed values using `in`  
+- Combining ternary expressions with input validation  
+
+---
+
+### [d10 — Ternary with Error Handling](./d10_ternary_operator_with_error_handling)
+
+- Using ternary expressions inside `try / except`  
+- Protecting conversion logic from invalid input  
+- Keeping short syntax while preserving safety  
+
+---
+
 ## 💻 What Kind of Programs I Built
 
--  Access control programs  
--  Mood and response logic programs  
--  Status and rule-based checkers  
--  Travel and exam validation systems  
--  Authentication and security flow programs  
+- Access control programs  
+- Mood and decision logic programs  
+- Nested authentication and security systems  
+- Error-safe input validation programs  
+- Ternary operator practice projects  
 
 ---
 
@@ -144,15 +243,17 @@ d08_nested_conditions_with_input_system
 - Writing `if`, `elif`, and `else` statements confidently  
 - Combining rules with `and`, `or`, and `not`  
 - Using nested conditions for multi-step decisions  
-- Working with input-based logic and boolean checks  
+- Handling errors with `try`, `except`, `else`, and `finally`  
+- Writing cleaner short conditions with ternary operators  
+- Validating and normalizing user input safely  
 
 ---
 
 ## 🚀 Next Step
 
--  Loops (`for`, `while`)  
--  Repetition with conditions  
--  More interactive CLI programs  
+- Loops (`for`, `while`)  
+- Functions  
+- Lists and collections  
 
 ---
 
@@ -164,4 +265,7 @@ d08_nested_conditions_with_input_system
 - [x] Logical operators  
 - [x] Operator precedence  
 - [x] Nested conditions  
-- [x] Input-based decision programs  
+- [x] Error handling basics  
+- [x] Input validation  
+- [x] Ternary operator  
+- [x] Safe input-based decision programs  
