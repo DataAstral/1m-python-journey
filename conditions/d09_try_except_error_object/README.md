@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/DataAstral/DataAstral/main/banner.png" width="100%">
 </p>
+
 # Welcome to DataAstral
 
 One million projects. One path to mastery.
@@ -9,7 +10,7 @@ Progress: [░░░░░░░░░░] 0.0001% complete
 
 ---
 
-# **🛡️** d09_try_except_error_object
+## d09_try_except_error_object
 
 **Python Error Handling (Capturing Exception Object with `as e`)**
 
@@ -17,7 +18,7 @@ This program demonstrates how to catch an error and access its **detailed messag
 
 ---
 
-#  What This Program Does
+##  What This Program Does
 
 The program:
 
@@ -28,7 +29,7 @@ The program:
 
 ---
 
-#  Why This Is Important
+##  Why This Is Important
 
  This approach allows you to:
 
@@ -41,7 +42,7 @@ Instead of just printing a custom message, you can use **real Python error detai
 
 ---
 
-# 💻 Python Code
+## 💻 Python Code
 
 ```python
 # Try to convert a string into an integer
@@ -56,7 +57,7 @@ except ValueError as e:
 
 ---
 
-# 🔎 Output Preview
+## 🔎 Output Preview
 
 ```python
 Error: invalid literal for int() with base 10: 'abc'
