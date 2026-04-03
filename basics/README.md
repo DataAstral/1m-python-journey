@@ -31,7 +31,7 @@ d05_variables_strings_user_card
 
 ---
 
-## 🧠 What I Learned (Real Practice)
+## What I Learned (Real Practice)
 
 ### [d01 — Hello World](./d01_hello_world)
 
@@ -117,7 +117,7 @@ d05_variables_strings_user_card
 
 ---
 
-## 🎯 Skills Gained
+## Skills Gained
 
 - Understanding how programs execute step by step  
 - Writing clean and readable Python code  
@@ -127,7 +127,7 @@ d05_variables_strings_user_card
 
 ---
 
-## 🚀 Next Step
+## Next Step
 
 -  Loops (`for`, `while`)  
 -  Functions  
