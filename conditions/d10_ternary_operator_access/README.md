@@ -57,22 +57,3 @@ Access granted
 Enter your age: 16
 Access denied
 ```
-
----
-
-## Key Concept
-
-- `condition ? true : false` → ❌ (NOT Python)  
-- Python way:
-
-```
-value_if_true if condition else value_if_false
-```
-
-Example:
-
-```
-"Access granted" if age >= 18 else "Access denied"
-```
-
-This is a shorter alternative to `if/else` and is often used in clean, professional code.
