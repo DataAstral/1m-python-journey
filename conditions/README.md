@@ -45,7 +45,7 @@ d10_ternary_operator_with_error_handling
 
 ---
 
-## 🧠 What I Learned (Real Practice)
+## What I Learned (Real Practice)
 
 ### [d06 — Age Access Check](./d06_if_else_age_access_check)
 
@@ -237,7 +237,7 @@ d10_ternary_operator_with_error_handling
 
 ---
 
-## 🎯 Skills Gained
+## Skills Gained
 
 - Understanding how conditions control program flow  
 - Writing `if`, `elif`, and `else` statements confidently  
@@ -249,7 +249,7 @@ d10_ternary_operator_with_error_handling
 
 ---
 
-## 🚀 Next Step
+## Next Step
 
 - Loops (`for`, `while`)  
 - Functions  
