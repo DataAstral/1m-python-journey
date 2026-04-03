@@ -45,6 +45,12 @@ user_input = input("Type something: ")
 print("You typed:", user_input)
 ```
 
+🔎 Output Preview
+```
+Type something: Hello
+You typed: Hello
+```
+
 ---
 
 ## 💻 Program 2 — Greeting Program
@@ -55,6 +61,12 @@ This program asks the user for their name and greets them.
 # Program for greeting
 name = input("Your name: ")
 print("Hello,", name)
+```
+
+🔎 Output Preview
+```
+Your name: Anna
+Hello, Anna
 ```
 
 ---
@@ -75,6 +87,14 @@ age = input("How old are you? ")
 
 # Show the result
 print("Hello", name, "you are", age, "years old.")
+```
+
+🔎 Output Preview
+```
+Welcome to my Python program!
+What is your name? Anna
+How old are you? 25
+Hello Anna you are 25 years old.
 ```
 
 ---
@@ -101,6 +121,18 @@ print("Integer:", number)
 print("Float:", decimal)
 print("String:", text)
 print("Boolean:", boolean)
+```
+
+🔎 Output Preview
+```
+Enter a whole number: 5
+Enter a decimal number: 3.14
+Enter any text: hello
+Enter True or False: True
+Integer: 5
+Float: 3.14
+String: hello
+Boolean: True
 ```
 
 ---
